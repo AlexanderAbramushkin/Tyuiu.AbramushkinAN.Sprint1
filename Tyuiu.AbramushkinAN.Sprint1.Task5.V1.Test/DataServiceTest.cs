@@ -22,11 +22,11 @@ namespace Tyuiu.AbramushkinAN.Sprint1.Task5.V1.Test
         public void ValidExpression2()
         {
             DataService ds = new DataService();
-            double x1 = 3.0;
-            double x2 = 4.0;
-            double y1 = 3.0;
-            double y2 = 4.0;
-            int wait = 1;
+            double x1 = 5;
+            double x2 = 2;
+            double y1 = 3;
+            double y2 = 1;
+            int wait = 2;
             var res = ds.DistanceBetweenDots(x1, y1, x2, y2);
             Assert.AreEqual(wait, res);
         }

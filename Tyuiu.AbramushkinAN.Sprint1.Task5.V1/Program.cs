@@ -36,7 +36,7 @@ namespace Tyuiu.AbramushkinAN.Sprint1.Task5.V1
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine(ds.DistanceBetweenDots(x1,y1,x2,y2));
+            Console.WriteLine(ds.DistanceBetweenDots(x1, y1, x2, y2));
         }
     }
 }
