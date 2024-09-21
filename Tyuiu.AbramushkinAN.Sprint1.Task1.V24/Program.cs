@@ -11,7 +11,7 @@ namespace Tyuiu.AbramushkinAN.Sprint1.Task1.V24
             Console.Title = "Спринт #1 | Выполнил: Абрамушкин А. Н. | ИИПб-24-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Организация ввода\\вывода в консольных приложениях                *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #24                                                             *");
             Console.WriteLine("* Выполнил: Абрамушкин Александр Николаевич | ИИПб-24-2                   *");
