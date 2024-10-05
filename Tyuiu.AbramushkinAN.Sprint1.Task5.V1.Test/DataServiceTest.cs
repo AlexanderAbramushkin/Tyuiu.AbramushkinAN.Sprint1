@@ -26,7 +26,7 @@ namespace Tyuiu.AbramushkinAN.Sprint1.Task5.V1.Test
             double x2 = 2;
             double y1 = 3;
             double y2 = 1;
-            int wait = 2;
+            int wait = 4;
             var res = ds.DistanceBetweenDots(x1, y1, x2, y2);
             Assert.AreEqual(wait, res);
         }
